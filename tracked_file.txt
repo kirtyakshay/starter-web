@@ -1,0 +1,2 @@
+This file will be tracked and later deleted.
+Adding some changes to a staged file.
