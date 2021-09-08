@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akshay Kirty		kirtyakshay@gmail.com		@kirtyakshay
 
 # THANKS
 
